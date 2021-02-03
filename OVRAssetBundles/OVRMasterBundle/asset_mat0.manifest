@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4067982535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b013fe254a355a51bdf45a6b19d6959
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Green.mat
+Dependencies:
+- D:/Documents/Oculus Hand Tracking/OVRAssetBundles/OVRMasterBundle/asset_png0

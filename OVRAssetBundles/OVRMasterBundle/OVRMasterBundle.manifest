@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 43122420
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_yeet
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_prefab0
+    Info_2:
+      Name: asset_mat0
+      Dependencies:
+        Dependency_0: asset_png0
+    Info_3:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_mat0
+    Info_4:
+      Name: asset_png0
+      Dependencies: {}
